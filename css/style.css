@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 181, 227);
+}
+table, th, td{
+border: 1px solid black;
+border-radius: 10px;
+}
+table{
+    width: 50%;
+    font-size: 24px;
+    margin: 0 auto;
+    text-align: center;
+}
+th{
+    background-color: rgb(188, 207, 205);
+}
+#ip{
+    width: 100px;
+    height: 100px;
+    margin: 0px auto;
+    display: block;
+}
